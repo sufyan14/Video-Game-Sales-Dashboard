@@ -46,7 +46,7 @@ This Power BI report provides a comprehensive analysis of video game sales acros
 * DAX (for calculated measures)
 * Power Query Editor (for data cleaning)
 
-## Output
+## 📤 Output
 
 ![{F77E22B6-9A9C-45C5-95FC-D45520186E03}](https://github.com/user-attachments/assets/b75e6baf-c042-4494-abe4-993e062fd952)
 
